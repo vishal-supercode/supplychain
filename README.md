@@ -1,4 +1,4 @@
-# FreightLoop — manager walkthrough
+# FreightLoop
 
 FreightLoop is the first prototype in the Supply Chain Lab. It demonstrates how a fleet operator or logistics provider could match available trucks with suitable freight and find a compatible load for the return journey.
 
